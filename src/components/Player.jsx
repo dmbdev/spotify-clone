@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react"
+import { useEffect, useRef } from "react"
 import { usePlayerStore } from "src/store/playerStore"
 
 import { PlayerCurrentSong } from "./PlayerCurrentSong"
